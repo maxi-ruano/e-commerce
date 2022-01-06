@@ -52,34 +52,34 @@ const products = [
       " Los botines Nike Vapor 13 Academy TF envuelven tu pie para ofrecer un ajuste similar a una segunda piel, mientras que la suela de goma ayuda a una tracción supercargada en el césped. El material sintético suave tiene una textura desde el talón hasta la punta para darle el toque que necesita tu creatividad a máxima velocidad. Basado en el análisis de Nike Sports Research Lab a los movimientos de los jugadores para una mayor precisión y control del balón como también comodidad en tu pie desde el primer hasta el último minuto de juego.",
   },
   {
-    id: 2,
-    name: "Macbook",
-    productType: "Apple Mcbook",
-    price: 1000,
+    id: 6,
+    name: "Socks",
+    productType: "Pack de Medias Urbo Logo",
+    price: 3,
     image:
-      "https://lamartina.vtexassets.com/arquivos/ids/193488-300-450?v=637564490521700000&width=300&height=450&aspect=true",
+      "https://www.moovbydexter.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-dabra-catalog/default/dw6ee475b5/products/UR_NAFW21068/UR_NAFW21068-1.JPG?sw=400&sh=400",
     description:
-      " Pant. 15.6 FHD. Procesador Intel Core I5-10300. SO: Windows 10 Home. Almac 1Tb / RAM 8Gb. Unidad SSD 128Gb. Bateria 3 celdas 45 Whrs internal. Placa de video NVIDIA GEFORCE GTX 1650 4GB GDDR6. WiFi. BT: 5.0. USB: 2 x 3.2 Gen 1 / 1 x 3.2 Tipo - C Gen 1",
+      " El pack de medias Urbo Logo están confeccionadas en algodón y con dibujos que las vuelven más relajadas para tus días. Su diseño casi invisible no le quitan protagonismo a tus calzados pero sí al frío para protegerte y darte más comodidad.",
+  },
+  {
+    id: 7,
+    name: "Shoes",
+    productType: "Zapatillas Nike Air Max 2090",
+    price: 5,
+    image:
+      "https://www.moovbydexter.com.ar/dw/image/v2/BDTF_PRD/on/demandware.static/-/Sites-dabra-catalog/default/dwc34be940/products/NI_BV9977-101/NI_BV9977-101-1.JPG?sw=400&sh=400",
+    description:
+      "Las zapatillas Nike Air Max 2090 celebran el 30° aniversario del lanzamiento de las Air Max 90. Su confección con malla ligera y transpirable para mantener los pies cómodos, mientras que la unidad Air Max proporciona una amortiguación más visible desde el costado en relación con el modelo original de aquellos años. La lengüeta con orificio abierto se combina con el cierre ajustable de agarre del talón para que puedas ponerte y quitarte el calzado con facilidad. ",
   },
   {
     id: 2,
-    name: "Macbook",
-    productType: "Apple Mcbook",
-    price: 1000,
+    name: "Cocina",
+    productType: "Horno Eléctrico con Anafe 40 Lts Philco HGP4021API",
+    price: 100,
     image:
-      "https://lamartina.vtexassets.com/arquivos/ids/193488-300-450?v=637564490521700000&width=300&height=450&aspect=true",
+      "https://images.fravega.com/f300/a0443e5e522a0f535a8bb766560c38d8.jpg.webp",
     description:
-      " Pant. 15.6 FHD. Procesador Intel Core I5-10300. SO: Windows 10 Home. Almac 1Tb / RAM 8Gb. Unidad SSD 128Gb. Bateria 3 celdas 45 Whrs internal. Placa de video NVIDIA GEFORCE GTX 1650 4GB GDDR6. WiFi. BT: 5.0. USB: 2 x 3.2 Gen 1 / 1 x 3.2 Tipo - C Gen 1",
-  },
-  {
-    id: 2,
-    name: "Macbook",
-    productType: "Apple Mcbook",
-    price: 1000,
-    image:
-      "https://lamartina.vtexassets.com/arquivos/ids/193488-300-450?v=637564490521700000&width=300&height=450&aspect=true",
-    description:
-      " Pant. 15.6 FHD. Procesador Intel Core I5-10300. SO: Windows 10 Home. Almac 1Tb / RAM 8Gb. Unidad SSD 128Gb. Bateria 3 celdas 45 Whrs internal. Placa de video NVIDIA GEFORCE GTX 1650 4GB GDDR6. WiFi. BT: 5.0. USB: 2 x 3.2 Gen 1 / 1 x 3.2 Tipo - C Gen 1",
+      " Marca: Philco Modelo: HGP4021API Color: Negro Medidas: 49,6 x 40 x 32 cm Peso: 10,2 kg Origen: Argentina Capacidad: 40 litros. Opción de cocción superior, inferior y combinada. Función convección. Doble anafe. Timer de 60 minutos. Accesorios: Bandeja de cocción, grilla y pinza. Consumo 3200W. Voltaje: 220 – 50 Hz.",
   },
 ];
 
