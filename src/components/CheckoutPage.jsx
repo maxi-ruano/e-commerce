@@ -6,6 +6,7 @@ import Grid from "@mui/material/Grid";
 import Product from "./Product";
 import products from "../product-data";
 import { Typography } from "@mui/material";
+import CheckoutCard from "./CheckoutCard";
 
 const Item = styled(Paper)(({ theme }) => ({
   ...theme.typography.body2,
@@ -20,7 +21,7 @@ const CheckoutPage = () => {
         <Grid container spacing={3}>
           {products.map((item) => (
             <Grid item xs={12} sm={8} md={6} lg={4}>
-              <Product key={item.id} product={item} />
+              <CheckoutCard key={item.id} product={item} />
             </Grid>
           ))}
         </Grid>
