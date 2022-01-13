@@ -7,6 +7,7 @@ import Product from "./Product";
 import products from "../product-data";
 import { Typography } from "@mui/material";
 import CheckoutCard from "./CheckoutCard";
+import Total from "./Total";
 
 const Item = styled(Paper)(({ theme }) => ({
   ...theme.typography.body2,
@@ -40,7 +41,7 @@ const CheckoutPage = () => {
       </Grid>
       <Grid item xs={12} sm={4} md={3}>
         <Typography align="center" gutterBottom variant="h4">
-          total
+          <Total />
         </Typography>
       </Grid>
     </Grid>
